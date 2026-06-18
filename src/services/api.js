@@ -18,3 +18,4 @@ export const getJobs = () => API.get('/jobs')
 export const addJob = (data) => API.post('/jobs', data)
 export const deleteJob = (id) => API.delete(`/jobs/${id}`)
 export const updateJob = (id, data) => API.put(`/jobs/${id}`, data)
+
