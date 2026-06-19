@@ -1,6 +1,6 @@
 ## 🔗 Links
 - Live Demo: https://job-tracker-frontend-jet-eta.vercel.app
-- Backend Repo: [backend GitHub link]
+- Backend Repo: https://github.com/Extrakunal/job-tracker-backend
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
